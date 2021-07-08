@@ -10,6 +10,8 @@ This is a very simple React App created by following [this](https://www.udemy.co
 * Error boundaries
 * Hooks
 
+I have also saved a [`classes` branch](https://github.com/ollyc2015/react-simple-example/edit/classes/README.md) that uses the original way to handle state before `hooks` were introduced. This is good to know if you're not too interested in strict React, since `hooks` are a React only feature, where as classes are used in JavaScript too.
+
 Once you have cloned or forked the project, you can run the project by doing the following:
 
 1. Run `npm install`
