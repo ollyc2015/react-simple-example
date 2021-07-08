@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-simple-example/static/css/main.af028bc3.chunk.css",
+    "main.js": "/react-simple-example/static/js/main.21f8164f.chunk.js",
+    "main.js.map": "/react-simple-example/static/js/main.21f8164f.chunk.js.map",
+    "runtime-main.js": "/react-simple-example/static/js/runtime-main.0b608f89.js",
+    "runtime-main.js.map": "/react-simple-example/static/js/runtime-main.0b608f89.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/react-simple-example/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.4cf85a16.chunk.js": "/react-simple-example/static/js/2.4cf85a16.chunk.js",
+    "static/js/2.4cf85a16.chunk.js.map": "/react-simple-example/static/js/2.4cf85a16.chunk.js.map",
+    "static/js/3.0f4a524b.chunk.js": "/react-simple-example/static/js/3.0f4a524b.chunk.js",
+    "static/js/3.0f4a524b.chunk.js.map": "/react-simple-example/static/js/3.0f4a524b.chunk.js.map",
+    "index.html": "/react-simple-example/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/react-simple-example/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.af028bc3.chunk.css.map": "/react-simple-example/static/css/main.af028bc3.chunk.css.map",
+    "static/js/2.4cf85a16.chunk.js.LICENSE.txt": "/react-simple-example/static/js/2.4cf85a16.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-simple-example/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b608f89.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.4cf85a16.chunk.js",
+    "static/css/main.af028bc3.chunk.css",
+    "static/js/main.21f8164f.chunk.js"
+  ]
+}
