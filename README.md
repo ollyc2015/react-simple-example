@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is a very simple React App created by following [this](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/) course. I am interested in creating React Native Apps and since the course included a short course on React, it was recommended to start with React to understand certain common themes such as, 
+This is a very simple React App created by following [this](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/) course. I am interested in creating React Native Apps and since the course included a short course on React, it was recommended to start with React to understand certain common themes such as: 
 
 * Components and how they are the responsible for state
 * One way data flow (everything flows from state to props) 
